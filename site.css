@@ -1,0 +1,265 @@
+body {
+    background-color: rgb(181, 195, 241); 
+    color: white; 
+    background-image: url("https://cdn.discordapp.com/attachments/1142947428522274900/1155607189432574082/radiocommjupiter_avatar_backdrop_fantasy_very_clean_and_white_w_27e4c817-1977-4e0d-b532-f3a7a3f14e58.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+ /* Center the content block vertically and horizontally */
+            .my-content 
+            html, body
+               {
+                height: 100%;
+                margin: 0;
+                display: flex;
+              }
+
+            
+            /* Styling for the rounded content block */
+            
+            .rounded-content-block {
+                background-color: #c0c0ec; /* Background color */
+                padding: 20px; /* Padding around content */
+                border-radius: 10px; /* Rounded corners */
+                box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for the block */
+                width: 375px;
+                height: 250px;
+                display: inline-block;
+                justify-content: center;
+                align-items: center;
+                text-align: left;
+                opacity: 75%;
+                margin-top: 250px;
+                margin-right: 180px;
+                
+
+}  
+
+  /* Styling for all glassy buttons with class .glassy-button */
+.glassy-button {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.1));
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for Button 1 with ID #button1 */
+#button4 {
+    background-color: #021720;
+    opacity: 60%
+    /* Add other unique styles for Button 1 */
+}
+
+/* Styling for Button 2 with ID #button2 */
+#button5 {
+    background-color: #021720;
+    opacity: 60%
+    /* Add other unique styles for Button 2 */
+}
+#button6{
+    background-color:#021720;
+    opacity: 60%
+}
+#button7{
+    background-color: #021720;
+    opacity: 60%
+}
+#button8{
+    background-color: #021720;
+    opacity: 60%
+    
+}
+/* Styling for all image buttons with class .image-button */
+
+.rounded-image-button {
+    display: inline-block;
+    border-radius: 50%; /* Makes the button fully round */
+    overflow: hidden; /* Ensures the image stays within the rounded shape */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.rounded-image-button img {
+    display: block; /* Removes default inline spacing */
+    width: 100%; /* Makes the image fill the button */
+    height: auto; /* Maintains the image's aspect ratio */
+    
+    
+}
+
+#button1 {
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1154937279341662287/radiocommjupiter_avatar_icon_45f47632-d09f-4f84-af6c-947b9bd3c30e.png');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    /* Add common styles for image buttons */
+}
+
+/* Styling for Button 2 with ID #image-button3 */
+#button2 {
+    
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1154937481368698940/radiocommjupiter_avatar_icon_f9b4c248-c20a-4ad2-8273-e1c0504b2a7f.png'); /* Set the background image path */;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    /* Add unique styles for Button 2 */
+}
+
+/* Styling for Button 3 with ID #image-button3 */
+#button3 {
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1154937485948895282/radiocommjupiter_avatar_icon_08e08fab-9824-4202-a0c0-0a6458c4e35d.png');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+
+    /* Add unique styles for Button 3 */
+}
+#button14 {
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156721888425410671/radiocommjupiter_Avatar_icon_Prit_8d22b0ba-e8b4-40a7-818c-24f162cbc766.png?ex=651600b5&is=6514af35&hm=4350f28a81de37e10dd0ddc1fc9c24a36bf6dc2c1c894519473d3872fccec5e5&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+#button15 {
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156722895305850980/radiocommjupiter_Avatar_icon_Prit_6ab18225-01b1-4dc8-b3fb-a42c7ca3041d.png?ex=651601a5&is=6514b025&hm=92ae775a903fd481cd221b22b2a9e1b79406eed09b91858531bfe967a4ff0b6d&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+#button9
+{
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156688477891608586/radiocommjupiter_simple_gold_gilded_background_very_light_periw_46974b95-cb66-40d9-abcb-35de73c27de3.png?ex=6515e197&is=65149017&hm=b8fee5824923394d0227717258d350c6e05bb5b221cf1fa01e50e788db5dfd8a&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top: -40;
+    grid-column-start: 3;
+    
+
+}
+#button10
+{
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156688477891608586/radiocommjupiter_simple_gold_gilded_background_very_light_periw_46974b95-cb66-40d9-abcb-35de73c27de3.png?ex=6515e197&is=65149017&hm=b8fee5824923394d0227717258d350c6e05bb5b221cf1fa01e50e788db5dfd8a&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+    margin-left: 150px;
+    margin-top: -40;
+
+    
+    
+
+}
+#button11
+{
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156688477891608586/radiocommjupiter_simple_gold_gilded_background_very_light_periw_46974b95-cb66-40d9-abcb-35de73c27de3.png?ex=6515e197&is=65149017&hm=b8fee5824923394d0227717258d350c6e05bb5b221cf1fa01e50e788db5dfd8a&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+    margin-left: 150px;
+  
+    
+}
+#button12
+{
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156688477891608586/radiocommjupiter_simple_gold_gilded_background_very_light_periw_46974b95-cb66-40d9-abcb-35de73c27de3.png?ex=6515e197&is=65149017&hm=b8fee5824923394d0227717258d350c6e05bb5b221cf1fa01e50e788db5dfd8a&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+    margin-left: 150px;
+    
+ 
+    
+}
+#button13
+{
+    background-image: url('https://cdn.discordapp.com/attachments/1142947428522274900/1156688477891608586/radiocommjupiter_simple_gold_gilded_background_very_light_periw_46974b95-cb66-40d9-abcb-35de73c27de3.png?ex=6515e197&is=65149017&hm=b8fee5824923394d0227717258d350c6e05bb5b221cf1fa01e50e788db5dfd8a&');
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self:flex-end;
+    margin-left: 150px;
+    
+
+    
+}
+
+.button-container {
+    background-color: #b3baf7; /* Background color for the content box */
+    padding: 20px; /* Padding around the buttons */
+    border: 1px solid #ccc; /* Border around the content box */
+    border-radius: 10px; /* Rounded corners for the content box */
+    display: inline-block; /* Ensures the container adjusts to the button size */
+    width: 125px;
+    height: 600px;
+  
+}
+
+    .button-container button {
+    background-color: #007bff; /* Button background color */
+    color: #0a1d86; /* Text color */
+    border: none; /* Remove button border */
+    padding: 5px 10px; /* Adjust padding as needed */
+    margin: 5px; /* Margin between buttons */
+    cursor: pointer; /* Change cursor on hover */
+   
+    
+}
+
+
+.imgAvatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.card {
+    border: solid red 2px;
+    display: flex;
+}
+
+.buttons {
+    border: solid blue 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
